@@ -48,14 +48,14 @@ Real-time posture-based analysis system to detect sleep/awake status of security
 ## 🔹 RedtoGreen AI
 Smart traffic optimization and emergency vehicle prioritization system in real time.
 
-## 🔹 HiveAI
-AI-based bee health analysis using humming sound patterns.
+## 🔹 BeeSpeakAI
+AI-based bee health analysis using humming sound patterns of bees in real time.
 
 ---
 
 # 📫 Connect With Me
 
-- 📧 Email: **srishtigoswami231226@acropolis.in**
+- 📧 Email: **goswamisrishti4@gmail.com**
 
 ---
 
