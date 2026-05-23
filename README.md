@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Srishti Goswami</h1>
 <p align="center">
-  <img src=""E:\downloads\Black Minimalist Linkedin Banner.png"">
+  <img src="https://github.com/srishti10-g/SrishtiGoswami/raw/main/Banner.png" alt="Banner" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Srishti Goswami</h1>
 <h3 align="center">AI & Data Science Student | Python Developer | ML Enthusiast</h3>
 
 ---
