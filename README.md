@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srishti Goswami</h1>
+<p align="center">
+  <img src=""E:\downloads\Black Minimalist Linkedin Banner.png"">
+</p>
 
 <h3 align="center">AI & Data Science Student | Python Developer | ML Enthusiast</h3>
 
